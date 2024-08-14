@@ -1,0 +1,11 @@
+{
+  "name": "ideas-better-government",
+  "version": "0.0.1",
+  "description": "A proposal for a better government",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "damianocsl",
+  "license": "MIT"
+}

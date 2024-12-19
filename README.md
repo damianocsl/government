@@ -1,4 +1,6 @@
-# My proposal for a better government
+# Proposal for an Indipendent Sardinia
+
+## "Sardigna Natzione Indipendhente"
 
 https://damianocasula.com/government
 

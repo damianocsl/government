@@ -4,7 +4,7 @@
 
 https://damianocasula.com/government
 
-## Ideas
+<!-- ## Ideas
 
 - Add blue energy: "nuclear power should be prioritized by deregulation still ensuring safety".
 - Explain better the welfare trap:
@@ -26,4 +26,4 @@ https://damianocasula.com/government
 - Heritage Foundation
 - Milton Friedman
 - Javier Milei
-- Poland immigration model
+- Poland immigration model -->
